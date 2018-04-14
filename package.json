@@ -1,0 +1,16 @@
+{
+  "name": "ionic-javascript-starter",
+  "version": "1.0.0",
+  "description": "Ionic JavaScript Starter",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "@ionic/core": "4.0.0-alpha.1"
+    
+  },
+  "devDependencies": {
+    "serve": "^6.5.5"
+  }
+}
