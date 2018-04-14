@@ -1,5 +1,9 @@
 # Simple Starter with JavaScript and Ionic 4 Web Components
 
+![](https://screenshotscdn.firefoxusercontent.com/images/6e3d005f-dacf-428b-b0d5-b725b148eae3.png)
+
+
+
 This project shows how to use various Ionic 4 UI web components such as:
 
 - `<ion-app>`
